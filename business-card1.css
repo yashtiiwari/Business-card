@@ -1,0 +1,38 @@
+body{
+    font-family:Verdana;
+}
+
+img{
+    background-color:#633D2E;
+    border-right:solid 5px #633D2E ;
+        border-bottom:inset 5px #633D2E ;
+
+}
+.card{
+    padding:20px;
+    width:650px;
+    display:flex;
+    margin-left: auto;
+        margin-right: auto;
+    background-color: #FFEFD3;
+        border-bottom:solid 20px #633D2E;
+
+
+
+}
+.text{
+color: #633D2E;
+    text-align:center;
+    border-radius:5px;
+    width:500px;
+    padding:50px;
+}
+.card div{
+    margin-left: 14px;
+}
+
+
+/*.border{*/
+/*    border:dotted 2px black;*/
+/*}*/
+
